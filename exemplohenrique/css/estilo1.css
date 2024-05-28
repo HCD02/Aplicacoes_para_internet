@@ -1,0 +1,25 @@
+body{
+	background: yellow;
+ 	 font-style: bold;
+ 	 color: black;
+ 	}
+
+p{color: blue;}
+
+h1, h3{   }
+
+
+h1{
+	font-style: italic;
+   color: red;
+  }
+
+
+h3{   }
+
+#h1-titulo{text-align: center;
+}
+
+#para2{font-size: 40px;margin: 30px; margin-left: 200px}
+
+.primeiroterceiro{letter-spacing: 3.0px}
